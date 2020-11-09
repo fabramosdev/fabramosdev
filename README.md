@@ -1,10 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/fabiano.png" alt="Fabramosdev" />
-</div>
-  &#xa0;
-
-  <!-- <a href="https://fabramosdev.netlify.app">Demo</a> -->
-
 # 👨‍💻 Fabiano S. Ramos 👨‍💻
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fanramosdev)](https://github.com/fabramosdev)
@@ -19,6 +12,7 @@
   <img src="http://views.whatilearened.today/views/github/fabramosdev/views.svg" />
   <img src="https://img.shields.io/badge/Front End-React-0699c0" />
   <img src="https://img.shields.io/badge/Back End-NodeJS-76cc77" />
+  <img src="https://img.shields.io/badge/Mobile-React Native-7159c1" />
   <a href="https://github.com/fabramosdev/">
     <img src="https://img.shields.io/github/followers/fabramosdev?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
