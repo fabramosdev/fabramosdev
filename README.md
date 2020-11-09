@@ -44,9 +44,10 @@ Trabalho com tecnologia desde 2012 (Área de TI). Apaixonado por conhecimento, d
 
 - [x] NodeJS | Express | Sequelize | Nodemon
 - [x] Restful 
-- [x] Angular | TypeScript | Angular JS | Javascript
+- [x] React | React Native | TypeScript | Angular JS 
+- [x] CakePHP | Wordpress | Joomla 
 - [x] HTML | CSS
-- [x] Postgres | Oracle | SQL Server | MySQL
+- [x] Postgres | MongoDB | MySQL
 - [x] Docker 
 - [x] Eclipse | IntelliJ IDEA | VSCode | Postman
 - [x] Scrum
