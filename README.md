@@ -25,7 +25,7 @@
   <table>	
     <tr>	
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabramosdev&hide=html&layout=compact" /></td>	
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabramosdev&show_icons=true&theme=radical" /></td>	
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=fabramosdev&show_icons=true" /></td>	
     </tr>   	
   </table>	
 </center>	
