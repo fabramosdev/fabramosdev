@@ -16,10 +16,8 @@
   <a href="https://github.com/fabramosdev/">
     <img src="https://img.shields.io/github/followers/fabramosdev?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
-  <a href="https://github.com/fabramosdev?tab=repositories">
-    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
-  </a>
 </p>
+
 
 
 <center>	
