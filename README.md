@@ -5,7 +5,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/fabianoramosdev)](https://t.me/fabianoramosdev)
 
 
-
 <p>
   <img src="http://views.whatilearened.today/views/github/fabramosdev/views.svg" />
   <img src="https://img.shields.io/badge/Front%20End-React-0699c0?style=flat-square&logo=react" />
@@ -14,6 +13,10 @@
   <a href="https://github.com/fabramosdev/">
     <img src="https://img.shields.io/github/followers/fabramosdev?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
+  <a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
+
 </p>
 
 
