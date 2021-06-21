@@ -9,6 +9,7 @@
   <img src="http://views.whatilearened.today/views/github/fabramosdev/views.svg" />
   <img src="https://img.shields.io/badge/Front%20End-React-0699c0?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Back End-NodeJS-76cc77?style=flat-square&logo=node.js" />
+  <img src="https://img.shields.io/badge/Back%20End-Elixir-7159c1?style=flat-square&logo=elixir" /> 
   <img src="https://img.shields.io/badge/Mobile-React Native-7159c1?style=flat-square&logo=react" />
   <a href="https://github.com/fabramosdev/">
     <img src="https://img.shields.io/github/followers/fabramosdev?color=%234CC61E&label=GitHub%20Followers%20%3A" />
