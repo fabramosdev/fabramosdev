@@ -43,13 +43,13 @@ Trabalho com tecnologia desde 2012 (Área de TI). Apaixonado por conhecimento, d
 ## Principais Habilidades
 
 - [x] NodeJS | Express | TypeORM | Nodemon
+- [x] Elixir | Phoenix
 - [x] Restful 
 - [x] React | React Native | TypeScript | Angular JS 
 - [x] CakePHP | Wordpress | Joomla 
-- [x] HTML | CSS
+- [x] HTML | CSS | Javascript
 - [x] Postgres | MongoDB | MySQL
 - [x] Docker 
 - [x] VSCode | Eclipse | IntelliJ IDEA | Insomnia
-- [x] Scrum
 - [x] Linux | Windows | Mac OS 
 
