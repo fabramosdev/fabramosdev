@@ -38,11 +38,13 @@ Trabalho com tecnologia desde 2012 (Área de TI). Apaixonado por conhecimento, d
 ### Formações
 - 🎓 Análise e Desenvolvimento de Sistemas (UNIGRANRIO - A concluir)
 - 🎓 Curso Angular, pela Cod3r 
+- 🎓 Curso PHP, pela B7Web
 - 🎓 Bootcamp Gostack - Rocketseat
 
 ## Principais Habilidades
 
 - [x] NodeJS | Express | TypeORM | Nodemon
+- [x] Laravel 6-8
 - [x] Elixir | Phoenix
 - [x] Restful 
 - [x] React | React Native | TypeScript | Angular JS 
