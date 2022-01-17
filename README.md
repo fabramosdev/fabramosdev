@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiano.suporteinfo@gmail.com)](mailto:fabiano.suporteinfo@gmail.com/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521967056086&text=Olá!)](https://api.whatsapp.com/send?phone=5521967056086&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/fabianoramosdev)](https://t.me/fabianoramosdev)
+[![wakatime](https://wakatime.com/badge/user/cd2c1c37-b589-44ae-816a-726542a97032.svg)](https://wakatime.com/@cd2c1c37-b589-44ae-816a-726542a97032)
 
 
 <p>
