@@ -37,11 +37,6 @@
 
 Trabalho com tecnologia desde 2012 (Área de TI). Apaixonado por conhecimento, decidi me aventurar no mundo da programação em 2014 e desde então não parei mais. Atualmente super focado na stack Javascript e amando cada vez mais o Typescript, tanto no Front quanto no Backend
 
-### Formações
-- 🎓 Análise e Desenvolvimento de Sistemas (UNIGRANRIO - A concluir)
-- 🎓 Curso Angular, pela Cod3r 
-- 🎓 Curso PHP, pela B7Web
-- 🎓 Bootcamp Gostack - Rocketseat
 
 ## Principais Habilidades
 
