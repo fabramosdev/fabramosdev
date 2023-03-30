@@ -40,15 +40,16 @@ Trabalho com tecnologia desde 2012 (Área de TI). Apaixonado por conhecimento, d
 
 ## Principais Habilidades
 
-- [x] NodeJS | Express | TypeORM | Nodemon
-- [x] AdonisJS
-- [x] Elixir | Phoenix
-- [x] React
-- [x] React Native 
-- [x] Flutter (aprendendo) 
-- [x] AngularJS 
+- [x] NodeJS
+- [x] AdonisJS (Back | Front | Monolito)
+- [x] Elixir (Backend Funcional)
+- [x] Phoenix (Front)
+- [x] React (Front)
+- [x] React Native (Mobile)
+- [x] Flutter (Mobile - in curse) 
+- [x] AngularJS (Front)
 - [x] HTML | CSS | Javascript
-- [x] Postgres | MongoDB | MySQL
-- [x] Docker 
-- [x] Linux | Windows | Mac OS 
+- [x] Postgres | MongoDB | MySQL (DB's)
+- [x] Docker (Images && Containers)
+- [x] Linux | Windows | Mac OS (SO's)
 
