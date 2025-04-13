@@ -1,7 +1,7 @@
 # 💫 About Me:
 Atualmente estudando Elixir, Scala, Python, Rust
 
-![Fabiano AscII](eu_ascII+2.png "FABIANO")
+![Fabiano AscII](EU.png "FABIANO")
 
 <a href="https://manytools.org/hacker-tools/convert-images-to-ascii-art/">ASCII art generator for geeks! - Convert images/pictures to ASCII art online! (HTML/text)</a>
 
