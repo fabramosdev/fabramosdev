@@ -3,6 +3,8 @@ Atualmente estudando Elixir, Scala, Python, Rust
 
 ![Fabiano AscII](eu_ascII+2.png "FABIANO")
 
+<a href="https://manytools.org/hacker-tools/convert-images-to-ascii-art/">ASCII art generator for geeks! - Convert images/pictures to ASCII art online! (HTML/text)</a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiano-ramos-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabianosantosramos1978@gmail.com) 
 
