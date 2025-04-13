@@ -1,8 +1,7 @@
-![Fabiano AscII](eu_ascII+2.png "FABIANO")
-
 # 💫 About Me:
 Atualmente estudando Elixir, Scala, Python, Rust
 
+![Fabiano AscII](eu_ascII+2.png "FABIANO")
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiano-ramos-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabianosantosramos1978@gmail.com) 
