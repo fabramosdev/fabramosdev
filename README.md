@@ -13,6 +13,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fabramosdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Fabiano AscII](eu_ascII+2.png "FABIANO")
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
