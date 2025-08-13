@@ -1,6 +1,8 @@
 # 💫 About Me:
-### PT_BR: Atualmente estudando Elixir, Scala, Python, Rust
-### EN_US: Currently studying Elixir, Scala, Python, Rust
+Desenvolvedor com sólida experiência em projetos mobile, web e backend, atuando com React, React Native, NodeJS, NestJS,
+Strapi e Elixir. Atuando como freelancer em projetos de frontend, entregando soluções modernas e eficientes para clientes
+como Rubbercon Solutions e Catedral Metropolitana do RJ. Sou estudante de Análise e Desenvolvimento de Sistemas na
+Anhanguera, com previsão de conclusão em 2027.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabiano-ramos-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabianosantosramos1978@gmail.com) 
@@ -16,3 +18,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
